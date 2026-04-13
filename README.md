@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Jarrod M. Cary (@Es00bac)
 
-<!--
-**Es00bac/Es00bac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Self-Taught Technical Problem-Solver | AI-Augmented Developer | Systems Thinker**
 
-Here are some ideas to get you started:
+Hi there! I'm Jarrod, an AI-augmented developer building software and exploring autonomous agent architectures. I'm passionate about leveraging large language models to multiply productivity, automate deep research, and solve complex technical challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Building
+
+### [OpenCAS](https://github.com/Es00bac/OpenCAS_runtime)
+A custom Python runtime for autonomous AI agents capable of codebase auditing, research synthesis, scheduled task execution, and hierarchical reasoning. 
+* **Key feature:** Advanced cognitive architecture running a continuous loop with vector-backed episodic memory and procedural extraction.
+
+### [OpenLLMAuth](https://github.com/Es00bac/OpenLLMAuth)
+The core provider connection layer supporting OpenCAS, facilitating robust authentication and LLM API rotation.
+
+### UtechSmart Venus Pro Control Suite 
+Reverse-engineering the HID protocol for the Venus Pro mouse to provide full Linux driver functionality, mapping out USB hex protocols for macro assignments and full LED control.
