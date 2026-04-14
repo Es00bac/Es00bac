@@ -13,5 +13,6 @@ A custom Python runtime for autonomous AI agents capable of codebase auditing, r
 ### [OpenLLMAuth](https://github.com/Es00bac/OpenLLMAuth)
 The core provider connection layer supporting OpenCAS, facilitating robust authentication and LLM API rotation.
 
-### UtechSmart Venus Pro Control Suite 
+### [UtechSmart Venus Pro Control Suite](https://github.com/Es00bac/UtechSmart-Venus-Pro-Linux-MMO-Mouse-Utility)
+
 Reverse-engineering the HID protocol for the Venus Pro mouse to provide full Linux driver functionality, mapping out USB hex protocols for macro assignments and full LED control.
