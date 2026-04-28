@@ -10,6 +10,9 @@ Hi there! I'm Jarrod, an AI-augmented developer building software and exploring 
 A custom Python runtime for autonomous AI agents capable of codebase auditing, research synthesis, scheduled task execution, and hierarchical reasoning. 
 * **Key feature:** Advanced cognitive architecture running a continuous loop with vector-backed episodic memory and procedural extraction.
 
+### [Signal Loom](https://github.com/Es00bac/signal-loom)
+Local-first node-based AI media studio with an Electron timeline editor 
+
 ### [OpenLLMAuth](https://github.com/Es00bac/OpenLLMAuth)
 The core provider connection layer supporting OpenCAS, facilitating robust authentication and LLM API rotation.
 
