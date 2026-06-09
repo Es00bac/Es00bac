@@ -1,5 +1,7 @@
 # 🚀 Jarrod M. Cary (@Es00bac)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-es00bac-FFDD00?logo=buymeacoffee&logoColor=000)](https://buymeacoffee.com/es00bac)
+
 **Self-Taught Technical Problem-Solver | AI-Augmented Developer | Systems Thinker**
 
 Hi there! I'm Jarrod, an AI-augmented developer building software and exploring autonomous agent architectures. I'm passionate about leveraging large language models to multiply productivity, automate deep research, and solve complex technical challenges.
