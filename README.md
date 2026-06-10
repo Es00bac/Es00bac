@@ -1,4 +1,4 @@
-# 🚀 Jarrod M. Cary (@Es00bac)
+# 🚀 Jarrod Cary (@Es00bac)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-es00bac-FFDD00?logo=buymeacoffee&logoColor=000)](https://buymeacoffee.com/es00bac)
 
